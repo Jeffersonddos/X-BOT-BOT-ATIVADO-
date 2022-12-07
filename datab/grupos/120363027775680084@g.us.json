@@ -1,0 +1,56 @@
+[
+  {
+    "name": "༒ℭ𝔢𝔫𝔱𝔯𝔞𝔩 ᘔᗴᖇO✩",
+    "groupId": "120363027775680084@g.us",
+    "x9": true,
+    "antiimg": false,
+    "antivideo": false,
+    "antiaudio": false,
+    "antisticker": false,
+    "antidoc": false,
+    "antictt": true,
+    "antiloc": true,
+    "antilinkgp": true,
+    "antilinkhard": true,
+    "antifake": false,
+    "antinotas": false,
+    "anticatalogo": true,
+    "antiporn": false,
+    "listanegra": [],
+    "advertir": [],
+    "legenda_estrangeiro": "0",
+    "legenda_documento": "0",
+    "legenda_video": "0",
+    "legenda_imagem": "0",
+    "legenda_catalogo": "0",
+    "multiprefix": false,
+    "antipalavrao": {
+      "active": false,
+      "palavras": []
+    },
+    "limitec": {
+      "active": true,
+      "quantidade": null
+    },
+    "wellcome": [
+      {
+        "bemvindo1": true,
+        "legendabv": "☞ Seja muito вeм-vιndo a #nomedogp# \n===Leia a descrição===\n\n#descrição#",
+        "legendasaiu": 0
+      },
+      {
+        "bemvindo2": false,
+        "legendabv": "Olá #numerodele#, seja bem vindo (a)",
+        "legendasaiu": 0
+      }
+    ],
+    "simi1": false,
+    "simi2": false,
+    "autosticker": false,
+    "autoresposta": false,
+    "jogos": false,
+    "level": false,
+    "bangp": false,
+    "nsfw": false
+  }
+]
